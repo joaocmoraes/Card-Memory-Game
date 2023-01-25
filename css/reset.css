@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Heebo&family=Josefin+Sans&family=Lato:ital,wght@0,400;1,700&family=PT+Sans&family=Poppins&family=Quicksand:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    border: none;
+    font-family: 'Heebo', sans-serif;
+}
